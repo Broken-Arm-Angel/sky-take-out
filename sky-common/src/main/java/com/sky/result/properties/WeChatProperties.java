@@ -1,4 +1,4 @@
-package com.sky.properties;
+package com.sky.result.properties;
 
 import lombok.Data;
 import org.springframework.beans.factory.annotation.Value;
